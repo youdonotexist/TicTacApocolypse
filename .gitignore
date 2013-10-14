@@ -1,0 +1,9 @@
+.svn/
+Library/
+*.sln
+
+*.csproj
+
+*.pidb
+
+*.userprefs
